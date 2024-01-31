@@ -24,3 +24,8 @@ To remove a falling word, players simply need to type it out accurately.
 ### How to Run:
  - Have Java 17 with Gradle
  - Go to desktop/src and run DesktopLauncher
+
+<br>
+<br>
+<b> Gameplay: </b><br>
+https://www.youtube.com/watch?v=DkJaeNOYkpE
