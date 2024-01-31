@@ -168,7 +168,6 @@ public class TypeRush extends Game implements InputProcessor {
 
                 wordsToAdd.add(new Word(possibleWords.get(random.nextInt(possibleWords.size())), word.getColumn()));
                 currentWord = currentWord.substring(currentWord.length() - word.getText().length());
-                System.out.println("current word after trimming: " + currentWord);
             } else {
                 highlightConsecutive(word);
             }
